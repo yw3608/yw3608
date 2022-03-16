@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yw3608, Yonah
-- 👀 I’m interested in biostatistics and programming
+- 👀 I’m interested in biostatistics and statistical programming
 - 🌱 I’m currently learning PASS and SAS
 - 📫 How to reach me : yuxuanw808@gmail.com
 
